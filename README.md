@@ -32,7 +32,7 @@ This project is a JavaFX desktop application that demonstrates CRUD (Create, Rea
 - MySQL Connector/J JDBC driver added to the project classpath.
 - A MySQL database with the following table:
 
-
+In the  YourNameLabApp.java file I have kept name as Your Nmame student ID has student id and date has date.
 
 Note: Somer Codes has been generated through Ai. I have also used websites like W3Schools for the research process.
 Author
